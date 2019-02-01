@@ -5,4 +5,4 @@
 This repository contains code and document about the use of netCDF files in MINT
 
 ## Files in this repository
-- netCDF quickstart: Jupyter notebook about the use of xarray to load, view, and manipulate netCDF files. 
+- netCDF tutorial: Jupyter notebook about the use of xarray to load, view, and manipulate netCDF files. 
